@@ -25,6 +25,4 @@ for(var a=0; a<=10;a++){
 
 //var is not secure, it changes final values in global scope
 
-
-
 console.log('Global Scope: ', a,b,c);
