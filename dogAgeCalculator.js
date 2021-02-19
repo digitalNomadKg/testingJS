@@ -7,4 +7,4 @@
 var userInput =  prompt("Please enter dog age");
 var dogAge = userInput;
 var humanAge = ((dogAge-2)*4)+21;
-alert(humanAge);
+alert("Your dog is " + humanAge + " in Human age");
