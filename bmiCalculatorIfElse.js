@@ -14,4 +14,4 @@ function bmiCalculator(weight, height){
     }
   }
   
-bmiCalculator(100,2);
+bmiCalculator(80,2);
