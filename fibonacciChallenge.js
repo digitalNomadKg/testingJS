@@ -1,4 +1,4 @@
-
+//Fibonacci Generator.
 
 function fibonacciGenerator(n){
 
@@ -19,8 +19,5 @@ function fibonacciGenerator(n){
 
 }
 
-
-var num = [];
-num.push(12,12,12,224214);
-num.length();
-console.log(num);
+output = fibonacciGenerator(245);
+console.log(output);
